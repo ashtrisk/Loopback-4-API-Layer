@@ -1,2 +1,3 @@
-# Loopback-4-API-Layer
-An API layer built using loopback 4 framework http://v4.loopback.io/
+# loopback4_api_layer
+
+[![LoopBack](https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png)](http://loopback.io/)
